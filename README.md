@@ -73,10 +73,10 @@
 ✔ Front-end technologies such as HTML, CSS, JavaScript, and modern JavaScript frameworks like React, Angular, and Vue.js.<br>
 ✔ Experienced in back-end development using Nest.js, Express.js, Django, and Flask.<br>
 ✔ Database including PostgreSQL, MySql, MongoDB, SQLite and RESTful APIs, microservices architecture, and cloud platforms like AWS and Azure.<br>
-<h3>🚩 Artificial Intelligence (AI) Specialization:</h3>
+<!-- <h3>🚩 Artificial Intelligence (AI) Specialization:</h3>
 ✔ Machine learnign with TensorFlow, PyTorch, and scikit-learn.<br>
 ✔ NLP, computer vision, and predictive analytics, with a focus on solving real-world problems and enhancing user experiences.<br>
-✔ Proficient in data preprocessing, feature engineering, model training, and evaluation to deliver accurate and scalable AI solutions.<br>
+✔ Proficient in data preprocessing, feature engineering, model training, and evaluation to deliver accurate and scalable AI solutions.<br> -->
 <h3>🚩 Blockchain Expertise:</h3>
 ✔ Proficient in developing decentralized applications (DApps) using blockchain technologies such as Ethereum, Solidity, and Hyperledger.<br>
 ✔ Experienced in smart contract development, token creation, and implementing blockchain-based solutions for various use cases, including supply chain management, finance, and decentralized finance (DeFi).<br>
