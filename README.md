@@ -89,7 +89,15 @@
 
 </div>
 
-<br/>  
+<br/>
+
+<br>
+<!-- <p align="center"><img height="180em" src="https://github-readme-stats-p1rh.vercel.app/api?username=justingolomb&hide_border=true&count_private=true&show_icons=true" alt="justingolomb" align = "center"/></p> -->
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=everetthinton1115) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=everetthinton1115&hide=Html) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=everetthinton1115) |
+| :-: | :-: | :-: |
+
+<br/>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
